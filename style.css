@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 250px;
+    left: 545px;
+}
+
+body{
+    font-size: 50px;
+    font-family: 'Kalam', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Orbitron', sans-serif;
+    background-color: black;
+    color: red;
+}
